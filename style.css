@@ -54,7 +54,7 @@ img {
     margin: 3em auto;
 }
 
-/* Styling for the individual topic cards rounded edges background color and a drop shadow */
+/* Styling for the individual topic cards rounded edges background color and a drop shadow. */
 .topic-card{
     background-color: rgb(40, 175, 238);
     color: rgb(100, 14, 199);
