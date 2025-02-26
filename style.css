@@ -37,7 +37,7 @@ img {
 /* nice big font on a banner style background */
 .topic-title{
     color: rgb(173, 16, 182);
-    font-size: 2em;
+    font-size: 1em;
     padding: 0.1em 3em;
     background-color: rgb(40, 175, 238);
 }
