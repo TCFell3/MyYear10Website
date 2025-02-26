@@ -38,7 +38,7 @@ img {
 .topic-title{
     color: rgb(100, 14, 199);
     font-size: 1em;
-    padding: 0.1em 3em;
+    padding: 0.5em 8em;
     background-color: rgb(40, 175, 238);
     background-image: url('images/water-20.gif');
 }
