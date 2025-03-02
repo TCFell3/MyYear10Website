@@ -31,7 +31,7 @@ img {
 
 /* BIG text styling for the hero section text */
 .hero-text {
-    font-size: 1em;
+    font-size: 8em;
     font-weight: bold;
 }
 
@@ -39,7 +39,7 @@ img {
 .topic-title{
     color: rgb(40, 175, 238);
     font-size: 1em;
-    padding: 3em 8em;
+    padding: 3em 6em;
     background-color: rgb(40, 175, 238);
     background-image: url('images/theworld.gif');
 }
