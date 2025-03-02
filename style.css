@@ -33,6 +33,7 @@ img {
 .hero-text {
     font-size: 4em;
     font-weight: bold;
+    background-image: url('images/7879.gif');
 }
 
 /* nice big font on a banner style background */
@@ -53,7 +54,6 @@ img {
     width: 70%;
     /* top margin of 3em and center right/left */
     margin: 3em auto;
-    background-image: url('images/7879.gif');
 }
 
 /* Styling for the individual topic cards rounded edges background color and a drop shadow. */
