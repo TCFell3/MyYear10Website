@@ -48,7 +48,7 @@ img {
 .topic-content{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    background-image: url('images/7879.gif');
+    gap: 4em;
     /* bring the whole section in off the sides of the page */
     width: 70%;
     /* top margin of 3em and center right/left */
