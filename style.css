@@ -39,7 +39,7 @@ img {
 .topic-title{
     color: rgb(40, 175, 238);
     font-size: 4em;
-    padding: 0em 2em;
+    padding: 0em 1.9em;
     background-color: rgb(40, 175, 238);
     background-image: url('images/theworld.gif');
 }
