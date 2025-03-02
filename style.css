@@ -23,7 +23,7 @@ img {
     display: flex;
     justify-content: center;
     align-items: center;
-    color: rgb(47, 255, 238);
+    color: rgb(100, 14, 199);
     text-align: center;
     position: relative;
 }
@@ -57,7 +57,7 @@ img {
 /* Styling for the individual topic cards rounded edges background color and a drop shadow. */
 .topic-card{
     background-color: rgb(40, 175, 238);
-    color: rgb(47, 255, 238);
+    color: rgb(100, 14, 199);
     padding: 1em;
     border-radius: 0.5em;
     box-shadow: 10px 10px 10px rgb(40, 140, 200);
