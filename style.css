@@ -53,6 +53,7 @@ img {
     width: 70%;
     /* top margin of 3em and center right/left */
     margin: 3em auto;
+    background-image: url('images/7879.gif');
 }
 
 /* Styling for the individual topic cards rounded edges background color and a drop shadow. */
@@ -70,7 +71,6 @@ img {
     margin-bottom: 0.5em;
     /* center align text */
     text-align: center;
-    background-image: url('images/7879.gif');
 }
 
 
