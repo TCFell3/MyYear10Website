@@ -76,7 +76,9 @@ h1 {
     text-align: center;
 }
 
-
+{
+    margin:auto; 
+}
 /* Styling for a footer section to take a bit of spcae at the bottom of the page */
 .footer{
     background-color: rgb(40, 175, 238);
