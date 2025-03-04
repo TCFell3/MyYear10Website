@@ -38,15 +38,15 @@ img {
 
 /* nice big font on a banner style background */
 .topic-title{
-    color: #ffffff;
+    color: #616060;
     font-size: 4em;
     padding: 0em 2em;
     background-color: rgb(43, 151, 223);
-    background-image: url('images/tree.gif');
+    background-image: url('images/istockphoto-1331291706-612x612.jpg');
 }
 
 h1 {
-    color:#ffffff;
+    color:#616060;
 }
 /* Three column grid with a nice big gap */
 .topic-content{
