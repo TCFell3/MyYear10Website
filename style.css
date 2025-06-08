@@ -33,20 +33,29 @@ img {
 .hero-text {
     font-size: 8em;
     font-weight: bold;
-    color: rgb(115, 160, 220);
+    color: rgb(5, 225, 255);
+     h1 {
+        -webkit-text-stroke-width: 3px;
+        -webkit-text-stroke-color: rgb(5, 170, 25);
+       }
+      }
 }
 
 /* nice big font on a banner style background */
 .topic-title{
-    color: #616060;
+    color: #000000;
+    h1 {
+        -webkit-text-stroke-width: 3px;
+        -webkit-text-stroke-color: white;
+      }
     font-size: 4em;
     padding: 0em 2em;
-    background-color: rgb(43, 151, 223);
+    background-color: rgb(83, 180, 236);
     background-image: url('images/istockphoto-1331291706-612x612.jpg');
 }
 
 h1 {
-    color:#616060;
+    color:#000000;
 }
 /* Three column grid with a nice big gap */
 .topic-content{
